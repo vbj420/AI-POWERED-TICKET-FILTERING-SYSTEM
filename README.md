@@ -1,9 +1,7 @@
 # AI-POWERED-TICKET-FILTERING-SYSTEM
-An AI-driven solution that allows users to filter and retrieve tickets based on natural language queries. This system interprets and translates user inputs into technical filter criteria, providing an intuitive, user-friendly interface for effective ticket management. 
+An AI-driven solution that allows users to filter and retrieve tickets based on natural language queries. This system interprets and translates user inputs into technical filter criteria, providing an intuitive, user-friendly interface for effective ticket management.
 
-![image](https://github.com/user-attachments/assets/31a2e7c7-b8d8-4198-9878-b1531bf17b4b)
-
-A simple and interactive bot that is built upon the basics of NLP. This bot analyzes the structure and content of the query entered by the user and identifies whether it is a valid query related to our Ticket-Management and identifies the given attributes and the required from the query input.
+A simple and interactive bot that is built upon the basics of NLP. Although not used any linked LLM , This bot analyzes the structure and content of the query entered by the user and identifies whether it is a valid query related to our Ticket-Management and identifies the given attributes and the required from the query input.
 
 ![image](https://github.com/user-attachments/assets/cf31d875-0b8b-4698-96a8-ebce62c87d2a)
 
